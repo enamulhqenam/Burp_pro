@@ -9,6 +9,6 @@
 2. permission Linux.sh 
 # sudo chmod +x linux.sh
 # run linux.sh
-./linux.sh
+# ./linux.sh
 3. same time run load.jar
-java -jar load.jar
+# java -jar load.jar
