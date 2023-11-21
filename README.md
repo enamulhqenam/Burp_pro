@@ -8,7 +8,7 @@
 # source ~/.bashrc
 2. permission Linux.sh 
 # sudo chmod +x linux.sh
-# run linux.sh
+3. run linux.sh
 # ./linux.sh
-3. same time run load.jar
+4. same time run load.jar
 # java -jar load.jar
